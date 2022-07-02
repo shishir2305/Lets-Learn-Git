@@ -5,7 +5,7 @@ int main()
 {
     int a = 23;
     int b = 37;
-    int total = a + b;
-    cout << total - 34 << endl;
+    int total = 23;
+    cout << total << endl;
     return 0;
 }
